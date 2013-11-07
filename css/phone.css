@@ -1,0 +1,13 @@
+﻿
+body {
+    background-color: black;
+}
+
+#divStatus {
+    width: 400px;
+    font-size: 15pt;
+    background-color: black;
+    color: white;
+    text-align: center;
+ 
+}
